@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:description="http://www.eclipse.org/sirius/description/1.1.0" xmlns:description_1="http://www.eclipse.org/sirius/diagram/description/1.1.0" xmlns:diagram="http://www.eclipse.org/sirius/diagram/1.1.0" xmlns:emfprofile="http://www.modelversioning.org/emfprofile/1.1" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmlns:viewpoint="http://www.eclipse.org/sirius/1.1.0" xsi:schemaLocation="http://www.eclipse.org/sirius/description/1.1.0 http://www.eclipse.org/sirius/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description">
+  <viewpoint:DAnalysis uid="_S3iBQN6pEeu2G4iPmZt1eQ" selectedViews="_wNywoN6pEeuvdbG_jA8Q4w" version="14.5.0.202104161500">
+    <semanticResources>profile.emfprofile_diagram</semanticResources>
+    <ownedViews xmi:type="viewpoint:DView" uid="_wNywoN6pEeuvdbG_jA8Q4w">
+      <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/emfprofiles.design/description/emfprofiles.odesign#//@ownedViewpoints[name='emfprofiles.viewpoint']"/>
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_wO3HoN6pEeuvdbG_jA8Q4w" name="EMF Profiles" repPath="#_wOSf4N6pEeuvdbG_jA8Q4w" changeId="1d8c65e9-f339-4048-a2d5-0525781dc1e1">
+        <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/emfprofiles.design/description/emfprofiles.odesign#//@ownedViewpoints[name='emfprofiles.viewpoint']/@ownedRepresentations[name='emfprofiles.diagram']"/>
+        <target xmi:type="emfprofile:Profile" href="profile.emfprofile_diagram#_wLOk0N6pEeuvdbG_jA8Q4w"/>
+      </ownedRepresentationDescriptors>
+    </ownedViews>
+  </viewpoint:DAnalysis>
+  <diagram:DSemanticDiagram uid="_wOSf4N6pEeuvdbG_jA8Q4w">
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" uid="_wPARkN6pEeuvdbG_jA8Q4w" source="GMF_DIAGRAMS">
+      <data xmi:type="notation:Diagram" xmi:id="_wPARkd6pEeuvdbG_jA8Q4w" type="Sirius" element="_wOSf4N6pEeuvdbG_jA8Q4w" measurementUnit="Pixel">
+        <styles xmi:type="notation:DiagramStyle" xmi:id="_wPARkt6pEeuvdbG_jA8Q4w"/>
+      </data>
+    </ownedAnnotationEntries>
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" uid="_wSdOMN6pEeuvdbG_jA8Q4w" source="DANNOTATION_CUSTOMIZATION_KEY">
+      <data xmi:type="diagram:ComputedStyleDescriptionRegistry" uid="_wSdOMd6pEeuvdbG_jA8Q4w"/>
+    </ownedAnnotationEntries>
+    <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/emfprofiles.design/description/emfprofiles.odesign#//@ownedViewpoints[name='emfprofiles.viewpoint']/@ownedRepresentations[name='emfprofiles.diagram']"/>
+    <filterVariableHistory xmi:type="diagram:FilterVariableHistory" uid="_wOf7QN6pEeuvdbG_jA8Q4w"/>
+    <activatedLayers xmi:type="description_1:Layer" href="platform:/plugin/emfprofiles.design/description/emfprofiles.odesign#//@ownedViewpoints[name='emfprofiles.viewpoint']/@ownedRepresentations[name='emfprofiles.diagram']/@defaultLayer"/>
+    <target xmi:type="emfprofile:Profile" href="profile.emfprofile_diagram#_wLOk0N6pEeuvdbG_jA8Q4w"/>
+  </diagram:DSemanticDiagram>
+</xmi:XMI>
